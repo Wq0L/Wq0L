@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Cemalcan Bekmezci  
+🎮 Game Developer | 🧠 AI Enthusiast | 🎓 Computer Programming Student
 
-<!--
-**Wq0L/Wq0L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub Profile!
 
-Here are some ideas to get you started:
+- 👨‍💻 I’m developing games using **Unity** and **Unreal Engine**
+- 🚀 Co-founder of Walty Games, with a published game on Steam: [Wild West Saloon Simulator](https://store.steampowered.com/app/3490230/Wild_West_Saloon_Simulator/)
+- 🎯 Currently building a **3D FPS** project in Unity using the new Input System and custom character controller
+- 🧪 My first Unity project was **[CikWik](https://github.com/Wq0L/Chikwik)**, where I learned state management, UI anchoring, and NPC behavior logic
+- 🛠️ Tools I use: Unity, C#, Git, Visual Studio, Unreal Engine
+- 💡 Passionate about learning by building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="./cemalcan_game_dev_cover.png" alt="Game Dev Banner" width="100%"/>
+
+### 📫 Contact  
+[LinkedIn →](https://www.linkedin.com/in/cemalcanbekmezci/) • [Email →](mailto:cemalcanbekmezci@gmail.com)
